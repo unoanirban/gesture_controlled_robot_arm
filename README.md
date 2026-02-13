@@ -61,6 +61,8 @@ Open a new and run:
 ```bash
 rviz2
 ```
+After Rviz is launched, you will see a screen like below. Click on "Fixed Frame", by default, "map" will be selected, you have to exapnad the drop-down menu and select "base_link" from the options.
+
 ![Alt text for the image](image/image1.png)
 
 
