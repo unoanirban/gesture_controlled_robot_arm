@@ -56,7 +56,7 @@ ros2 launch robot_controller bringup.launch.py
 ```
 
 ## Rviz Configuration
-Open a new and run:
+Open a new terminal and run:
 
 ```bash
 rviz2
