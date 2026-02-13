@@ -49,7 +49,7 @@ pip3 install opencv-python mediapipe numpy
 
 ## Usage
 
-To launch the entire system (hand detector, arm controller, robot state publisher, and Rviz):
+To launch the entire system (hand detector, arm controller, and robot state publisher):
 
 ```bash
 ros2 launch robot_controller bringup.launch.py
