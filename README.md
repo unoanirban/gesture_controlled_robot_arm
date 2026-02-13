@@ -61,6 +61,8 @@ Open a new and run:
 ```bash
 rviz2
 ```
+![Alt text for the image](image/image.png)
+
 
 ### Controls
 
