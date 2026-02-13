@@ -69,6 +69,13 @@ After that click on "Add", scroll down a little bit, select "RobotModel" and the
 
 ![Adding a new display](image/image2.png)
 
+Upon completing the previous two steps, "RobotModel" will be added to the "Displays". Click on "RobotModel", expand the drop-down menu, you will see several options. cilck on "Description Topic", expand the drop-down menu again and select "/robot_description". 
+
+![Selecting description topic](image/image3.png)
+
+Congratulation! You are ready to control the robotic arm with you finger.
+
+![Final screen](image/image4.png)
 
 ### Controls
 
