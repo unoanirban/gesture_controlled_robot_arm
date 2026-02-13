@@ -55,6 +55,13 @@ To launch the entire system (hand detector, arm controller, robot state publishe
 ros2 launch robot_controller bringup.launch.py
 ```
 
+## Rviz Configuration
+Open a new and run:
+
+```bash
+rviz2
+```
+
 ### Controls
 
 Once the application is running, a "Hand Detector" window will appear showing the webcam feed. Show your hand to the camera:
