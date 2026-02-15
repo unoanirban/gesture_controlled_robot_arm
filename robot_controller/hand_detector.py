@@ -1,8 +1,9 @@
 # robot_controller/robot_controller/hand_detector.py
+# Import ROS client library for python, Node from rclpy.node and Int32 (message type) from std_msgs.msg
 import rclpy
 from rclpy.node import Node
 from std_msgs.msg import Int32
-
+#Import Opencv, Mediapipe and Numpy
 import cv2
 import mediapipe as mp
 import numpy as np
