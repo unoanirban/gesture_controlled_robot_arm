@@ -28,7 +28,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'hand_detector = robot_controller.hand_detector:main',
+            'hand_detector = robot_controller.hand_detector:main', #Make sure to add comma after every entry points otherwise the next entry point will not be considered as valid
             'arm_commander = robot_controller.arm_commander:main',
         ],
     },
